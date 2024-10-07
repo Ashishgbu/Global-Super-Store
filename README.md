@@ -2,8 +2,6 @@
 
 <img width="665" alt="image" src="https://github.com/user-attachments/assets/d35e44c4-8901-4637-ba70-5ecd924fcd77">
 
-Here’s a **README.md** description for your **Global Super Store Dashboard** project that you can use on GitHub or any project-sharing platform:
-
 ---
 
 
